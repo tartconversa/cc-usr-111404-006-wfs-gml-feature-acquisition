@@ -1,0 +1,1 @@
+<wfs:FeatureCollection xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:t="urn:transit" numberMatched="1" numberReturned="1"><wfs:member><t:Stop gml:id="s1"><t:name>Hub</t:name><t:point><gml:Point srsName="urn:ogc:def:crs:EPSG::4326"><gml:pos>30 114</gml:pos></gml:Point></t:point></t:Stop></wfs:member></wfs:FeatureCollection>

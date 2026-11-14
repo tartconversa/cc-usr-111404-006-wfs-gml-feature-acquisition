@@ -1,0 +1,13 @@
+{
+  "source_id": "source-a",
+  "url": "https://example.test/source",
+  "status": 200,
+  "headers": [
+    [
+      "Content-Type",
+      "application/gml+xml"
+    ]
+  ],
+  "body_base64": "PHdmczpGZWF0dXJlQ29sbGVjdGlvbiB4bWxuczp3ZnM9Imh0dHA6Ly93d3cub3Blbmdpcy5uZXQvd2ZzLzIuMCIgeG1sbnM6Z21sPSJodHRwOi8vd3d3Lm9wZW5naXMubmV0L2dtbC8zLjIiIHhtbG5zOnQ9InVybjp0cmFuc2l0IiBudW1iZXJNYXRjaGVkPSIxIiBudW1iZXJSZXR1cm5lZD0iMSI+PHdmczptZW1iZXI+PHQ6U3RvcCBnbWw6aWQ9InMxIj48dDpuYW1lPkh1YjwvdDpuYW1lPjx0OnBvaW50PjxnbWw6UG9pbnQgc3JzTmFtZT0idXJuOm9nYzpkZWY6Y3JzOkVQU0c6OjQzMjYiPjxnbWw6cG9zPjMwIDExNDwvZ21sOnBvcz48L2dtbDpQb2ludD48L3Q6cG9pbnQ+PC90OlN0b3A+PC93ZnM6bWVtYmVyPjwvd2ZzOkZlYXR1cmVDb2xsZWN0aW9uPg==",
+  "metadata": {}
+}
